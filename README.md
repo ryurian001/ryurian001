@@ -7,7 +7,9 @@
 <br/>
 <br/>
 
-<a href="https://inside-the-glass.tistory.com/">Tistory</a>
+<p align="center">
+  <b><a href="https://inside-the-glass.tistory.com/">Tistory</a></b>
+</p>
 
 
 <h3 align='center'>🏫 Experience & Social Activity</h3>
