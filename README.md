@@ -6,6 +6,7 @@
 
 <br/>
 <br/>
+href="https://inside-the-glass.tistory.com/">[tistory]</a>
 
 <h3 align='center'>🏫 Experience & Social Activity</h3>
 
