@@ -56,6 +56,7 @@
 | 기간 | 내용 | 역할 | 비고 | 
 | --- | --- | --- | --- |
 | 2025.01 ~ 2025.06　|[연구활동] SQAFD <a href="https://github.com/ryurian001/Quantized_Feature_Distillation">[link]</a>| - | Python, Pytorch , SQAFD | 
+| 2026.02 ~ 2026.02　|[개발활동] Hyperparameter system <a href="https://github.com/ryurian001/project_notion">[link]</a>| - | Python, Steamlit | 
 
 
 </div>
