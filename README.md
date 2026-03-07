@@ -7,6 +7,15 @@
 <br/>
 <br/>
 
+<h3 align="center">✨</h3>
+
+<p align="center">
+<b>Shoot for the moon.</b><br/>
+<i>Even if you miss, you'll land among the stars.</i>
+</p>
+
+<br/>
+
 <h3 align='center'>🔗 Link 🔗</h3>
 
 <p align="center">
