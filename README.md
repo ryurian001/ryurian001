@@ -6,13 +6,17 @@
 
 <br/>
 <br/>
+<hr/>
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair%20Display&weight=700&size=24&pause=1000000&color=1F2328&center=true&vCenter=true&repeat=false&width=900&lines=Shoot+for+the+moon.+Even+if+you+miss%2C+you%27ll+land+among+the+stars." alt="Quote" />
+</div>
 
-<h3 align="center">✨</h3>
+<br/>
 
-<p align="center">
-<b>Shoot for the moon.</b><br/>
-<i>Even if you miss, you'll land among the stars.</i>
-</p>
+<hr/>
+
+<br/>
 
 <br/>
 
