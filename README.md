@@ -49,9 +49,10 @@
 
 <div align='center'>
 
-| Year | Title                                                                         | Venue                           | Link                                                                                                                                             |
-| ---- | ----------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2026 | STAR: Stage-wise Traffic Accident Detection via Optical-Flow-Guided Reasoning | CVPR 2026 Workshop AUTOPILOT-NA | <a href="https://openreview.net/forum?id=LgI2TStIUC&referrer=%5Bthe%20profile%20of%20Rian%20Ryu%5D(%2Fprofile%3Fid%3D~Rian_Ryu1)">OpenReview</a> |
+| Year | Title                                                                                                           | Venue                              | Link                                                                                                                                             |
+| ---- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026 | STAR: Stage-wise Traffic Accident Detection via Optical-Flow-Guided Reasoning                                   | CVPR 2026 Workshop AUTOPILOT-NA    | <a href="https://openreview.net/forum?id=LgI2TStIUC&referrer=%5Bthe%20profile%20of%20Rian%20Ryu%5D(%2Fprofile%3Fid%3D~Rian_Ryu1)">OpenReview</a> |
+| 2026 | A Vision-Language Navigation Module Robust to Viewpoint Shifts and a Multi-Tool Invocation Agent-Based Pipeline | IEIE 2026 Summer Annual Conference | Accepted                                                                                                                                         |
 
 </div>
 
@@ -70,9 +71,24 @@ Jaesung Sung, Jiwon Kim, Rian Ryu, Minseok Lim, Geonung Choi, Minju Jeong, and J
 
 Traffic Accident Detection · CCTV Surveillance · Video Understanding · Vision-Language Model · Optical Flow · Temporal Localization · Spatial Localization
 
+<br/>
+<br/>
+
+<b>A Vision-Language Navigation Module Robust to Viewpoint Shifts and a Multi-Tool Invocation Agent-Based Pipeline</b>
+
+<br/>
+
+Minseok Lim, Jaeseung Sung, Wonyoung Cho, Yubin Cho, Yujin Jeong, Rian Ryu, Jaekwon Lee, and Jaekoo Lee
+
+<br/>
+<br/>
+
+Vision-Language Navigation · Quadruped Robot · Unitree Go2 · DualVLN · Object Detection · ROSA Agent · LiDAR Backtracking
+
 </div>
 
 <br/>
+
 
 <h3 align='center'>💻 Projects </h3>
 
