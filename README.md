@@ -38,8 +38,8 @@
 | -------- | ---------------------------------------------------------------------- |
 | Paper    | CVPR 2026 Workshop AUTOPILOT-NA Accepted                               |
 | Robotics | Vision-Language Navigation-based Unitree Go2 Capstone Project          |
-| Research | Undergraduate Researcher at KMU Machine Intelligence Lab               |
-| Interest | Physical AI, Robotics, Vision-Language Navigation, Video Understanding |
+| Research | Intern KAIST industrial Artifical Intelligence Lab               |
+| Interest | Physical AI, Robotics, AI+X , Video Understanding |
 
 </div>
 
@@ -153,6 +153,7 @@ Unitree Go2 · Vision-Language Navigation · DualVLN · ROS2 · YOLO · LiDAR SL
 | FOSCAR (포스카)   | 2025.09 ~         | 국민대학교 소프트웨어융합대학 자율주행 동아리 부원          |
 | 아카이브 (Archive) | 2024.12 ~ 2025.12 | 국민대학교 소프트웨어융합대학 제9대 학생회 총무부 차장       |
 | KMU MI LAB     | 2026.01 ~ 2026.06   | 국민대학교 Machine Intelligence Lab 학부연구생 |
+| KAIST iAI LAB     | 2026.10 ~    | KAIST 산업인공지능 연구실 인턴 |
 
 </div>
 
