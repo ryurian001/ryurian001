@@ -152,7 +152,7 @@ Unitree Go2 · Vision-Language Navigation · DualVLN · ROS2 · YOLO · LiDAR SL
 | KOSS (코스)      | 2025.01 ~ 2025.12 | 국민대학교 소프트웨어융합대학 오픈소스 소프트웨어 동아리 회장    |
 | FOSCAR (포스카)   | 2025.09 ~         | 국민대학교 소프트웨어융합대학 자율주행 동아리 부원          |
 | 아카이브 (Archive) | 2024.12 ~ 2025.12 | 국민대학교 소프트웨어융합대학 제9대 학생회 총무부 차장       |
-| KMU MI LAB     | 2026.01 ~         | 국민대학교 Machine Intelligence Lab 학부연구생 |
+| KMU MI LAB     | 2026.01 ~ 2026.06   | 국민대학교 Machine Intelligence Lab 학부연구생 |
 
 </div>
 
